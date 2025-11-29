@@ -1,0 +1,17 @@
+{
+  "user_id": 9001,
+  "profile": {
+    "name": "Aigul",
+    "nickname": "Айгүл",             "age": 27,
+    "contact": {
+      "email": "aigul@example.kz",
+      "phone": "+7-777-123-4567"
+    },
+    "tags": ["dev", "python", "клубничка"]
+  },
+  "settings": {
+    "theme": "dark",
+    "notifications": true,
+    "language": "kk-Cyrl-KZ"
+  }
+}
